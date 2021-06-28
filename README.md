@@ -1,6 +1,6 @@
 #  I Am Rich 
 
-A new Flutter project.
+![Screenshot_1624894438](https://user-images.githubusercontent.com/76204009/123663835-7442b480-d83f-11eb-8d95-ea052aa0bfc2.png)
 
 ## Getting Started
 
